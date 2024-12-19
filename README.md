@@ -19,7 +19,7 @@
 ## 4. DB 접근 최소화
 
 * findByIdIn을 사용하여 Query를 한번에 불러옴
-![사진](https://github.com/jangutae/Advanced_Plus/blob/main/%EC%82%AC%EC%A7%84/%ED%94%8C%EB%9F%AC%EC%8A%A4%204.png**)
+![사진](https://github.com/jangutae/Advanced_Plus/blob/main/%EC%82%AC%EC%A7%84/%ED%94%8C%EB%9F%AC%EC%8A%A4%204.png)
 
 ## 5. 동적 쿼리에 대한 이해
 
